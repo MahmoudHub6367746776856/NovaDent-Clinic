@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd \"NovaDent Clinic/client\" && npm install && npm run build",
+  "outputDirectory": "NovaDent Clinic/client/dist",
+  "framework": null,
+  "installCommand": "cd \"NovaDent Clinic/client\" && npm install"
+}
